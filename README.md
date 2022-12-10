@@ -1,5 +1,5 @@
 # VPCDP
-THE "VANILLA PASTEL CRAYON DIGITAL PRODUCT" LICENSE <br>
+The "VANILLA PASTEL CRAYON DIGITAL PRODUCT LICENSE" <br>
 https://github.com/eimirein/VPCDP/releases/tag/1.0
 > Revision from: 2022/12/11
 - - -
