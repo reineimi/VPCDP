@@ -36,11 +36,19 @@ LIMITATIONS
 - 🚫 No trademark use
 - 🚫 Approval required
 
+## How to include in your project
+Simply rename "VPCDP-1.0.txt" to "LICENSE.txt" and upload in your project.
+
+Then, after uploading, head to "SECTION 0" in the license and type in your data.
+
+## Corrections and contributions
+Something's weird or unclear? Wanna add corrections or contribute? Create a new issue under the corresponding label:
+
+https://github.com/eimirein/VPCDP/issues/new
+
 ## This is not a final version
 As for now it's, probably, not as stable as supposed to be, so contributors are welcome,
 any help will be appreciated.
-
-You can open an issue or pull a request with corrections or/and notices.
 
 ## Background information
 Initially this license was created for my project called "V A 二 l l A" (Vanilla or va2.la).
