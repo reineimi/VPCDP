@@ -108,7 +108,9 @@ following conditions:
 1. PROHIBITIONS
 Do not use the prohibited content (mentioned in 
 "SECTION 2") in any way. The only permitted to use 
-content of this product is the licensed code.
+content of this product is the licensed code and
+anything labeled or mentioned as "FREE" from within
+the product.
 
 2. COPYRIGHT NOTICE
 When copying, modifying, replicating or sharing the 
