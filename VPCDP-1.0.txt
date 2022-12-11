@@ -24,7 +24,7 @@ CONDITIONS
 ⚠️ Same license
 ⚠️ State changes
 ⚠️ Notify copyright owner
-⚠️ Author mention in new product
+⚠️ Author mention
 
 LIMITATIONS
 🚫 Prohibited content included
@@ -52,6 +52,9 @@ licensed product and owns all the rights for it.
 
 Product - any kind of original work created by a person
 or company, be it free or paid.
+
+New product - any product, whether new or already 
+existing, that contains the licensed code.
 
 This license - the "VANILLA PASTEL CRAYON DIGITAL 
 PRODUCT LICENSE" (or VPCDP) created by Eimi Rein.
@@ -119,8 +122,9 @@ of it must be left untouched.
 
 3. AUTHOR MENTION
 When publishing a new product that includes the licensed 
-code, the name of the copyright owner must be mentioned in 
-the new product (usually in Credits or Developers section).
+code, the name of the copyright owner must be mentioned 
+from within that new product (usually in Credits or 
+Developers section).
 
 4. DISCLOSE SOURCE
 The new product that includes the licensed code must be 
@@ -129,7 +133,7 @@ built-in paid content and interactions
 (except for "Support Me").
 
 5. SAME LICENSE
-The new product that contains the licensed code must 
+The new product that includes the licensed code must 
 include this license.
 
 6. STATE CHANGES
@@ -138,7 +142,7 @@ changes made to it must be stated in any form (from a tiny
 notice to detailed documentation).
 
 7. NOTIFY THE COPYRIGHT OWNER
-Before publishing a new product that contains the licensed 
+Before publishing a new product that includes the licensed 
 code, notify the copyright owner via e-mail mentioned 
 in "SECTION 0".
 
@@ -146,7 +150,7 @@ in "SECTION 0".
 No patent and trademark use is granted.
 
 9. NO DUPLICATION OF THIS PRODUCT
-The new product that contains the licensed code must not
+The new product that includes the licensed code must not
 be identical to this product. The licensed code provided
 to user is shared with purpose of either contributions  
 to this product, improvement in existing products, or 
