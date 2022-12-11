@@ -164,12 +164,9 @@ its contributors, does not bear any legal liability.
 
 - - - - - -
 
-This license may undergo further changes, 
-therefore the current version is not considered final.
-
+This license may undergo further changes, therefore the 
+current version is not considered final.
 If you wish to update your current license or contribute 
-to further versions - feel free to contact the license's 
-copyright owner via e-mail (eimireindayo@gmail.com), 
-or create a pull request:
+to further versions - visit the link below:
 
-https://github.com/eimirein/VPCDP/pulls
+https://github.com/eimirein/VPCDP/
