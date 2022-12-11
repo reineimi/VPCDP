@@ -88,7 +88,7 @@ images, visual effects, videos and so on) that is not
 labeled or mentioned as "FREE" from within this product.
 
 2. Assets: any files, archives and folders in this 
-product that are not labeled or mentioned as free from 
+product that are not labeled or mentioned as "FREE" from 
 within the corresponding file or a README file, 
 except for the licensed code.
 
