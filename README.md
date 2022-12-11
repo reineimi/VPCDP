@@ -17,5 +17,5 @@ any help will be appreciated.<br><br>
 You can open an issue or pull a request with corrections or/and notices.
 
 ## Background information
-Initially this license was created for my future project called "V A 二 l l A" (Vanilla or va2.la).<br><br>
+Initially this license was created for my project called "V A 二 l l A" (Vanilla or va2.la).<br><br>
 But I modified it so it can be utilized by others properly.
