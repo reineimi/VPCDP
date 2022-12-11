@@ -12,6 +12,30 @@ From VPCDP-1.0:
 > This is a simplified license that can be provided to people of any age, as long as comprehended accurately.
 Anyone can copy and share this license, but changes to it, except for "SECTION 0" per product, are not allowed.
 
+## Quick evaluation
+PERMISSIONS (limited)
+- ✅ Distribution
+- ✅ Modification
+- ✅ Private use
+- ✅ Commercial use
+
+CONDITIONS
+- ⚠️ Disclose source
+- ⚠️ License and copyright notice
+- ⚠️ Network use is distribution
+- ⚠️ Same license
+- ⚠️ State changes
+- ⚠️ Notify copyright owner
+- ⚠️ Author mention in new product
+
+LIMITATIONS
+- 🚫 Prohibited content included
+- 🚫 No liability
+- 🚫 No warranty
+- 🚫 No patent use
+- 🚫 No trademark use
+- 🚫 Approval required
+
 ## This is not a final version
 As for now it's, probably, not as stable as supposed to be, so contributors are welcome,
 any help will be appreciated.
