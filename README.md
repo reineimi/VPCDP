@@ -21,4 +21,4 @@ You can open an issue or pull a request with corrections or/and notices.
 ## Background information
 Initially this license was created for my project called "V A 二 l l A" (Vanilla or va2.la).
 
-But I modified it so it can be utilized by others properly.
+But I modified it so it can now be utilized by others properly.
