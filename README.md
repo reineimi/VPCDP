@@ -2,7 +2,7 @@
 The "VANILLA PASTEL CRAYON DIGITAL PRODUCT LICENSE"
 https://github.com/eimirein/VPCDP/blob/main/VPCDP-1.0.txt
 > Revision from: 2022/12/12
-https://github.com/eimirein/VPCDP/releases/tag/1.0
+https://github.com/eimirein/VPCDP/releases/tag/v1.0
 - - -
 ## What is this?
 This is a license for open-source projects that prohibits in use everything but code,
