@@ -34,7 +34,7 @@ LIMITATIONS
 - 🚫 No warranty
 - 🚫 No patent use
 - 🚫 No trademark use
-- 🚫 Approval required
+- 🚫 No duplication of this product
 
 ## How to include in your project
 Simply rename "VPCDP-1.0.txt" to "LICENSE.txt" and upload in your project.
