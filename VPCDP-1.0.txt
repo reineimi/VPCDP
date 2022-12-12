@@ -105,8 +105,8 @@ owner, partners, collaborators and staff members.
 
 SECTION 3: CONDITIONS OF USE
 
-By using this product you will agree to the 
-following conditions:
+By using this product you agree to the following 
+conditions:
 
 1. PROHIBITIONS
 Do not use the prohibited content (mentioned in 
@@ -118,7 +118,7 @@ the product.
 2. COPYRIGHT NOTICE
 When copying, modifying, replicating or sharing the 
 licensed code, the existing copyright notices inside 
-of it must be left untouched.
+of it must be left untouched (persist and be unchanged).
 
 3. AUTHOR MENTION
 When publishing a new product that includes the licensed 
@@ -138,13 +138,13 @@ include this license.
 
 6. STATE CHANGES
 When modifying or replicating the licensed code, all the 
-changes made to it must be stated in any form (from a tiny 
-notice to detailed documentation).
+changes made to it must be stated in any form (from a  
+tiny notice to detailed documentation).
 
 7. NOTIFY THE COPYRIGHT OWNER
-Before publishing a new product that includes the licensed 
-code, notify the copyright owner via e-mail mentioned 
-in "SECTION 0".
+Before publishing a new product that includes the 
+licensed code, notify the copyright owner via e-mail 
+mentioned in "SECTION 0".
 
 8. NO TRADEMARK AND PATENT USE
 No patent and trademark use is granted.
@@ -160,6 +160,27 @@ creation of new, non-identical products.
 This product does not provide any warranty programs, and 
 the copyright owner of this product, as well as any of 
 its contributors, does not bear any legal liability.
+
+- - - - - -
+
+SECTION 4: GENERATED CODE/ASSETS EULA
+
+The generated code and assets provided specifically to 
+the user from within this product are considered as 
+"FREE", but only under the following conditions the 
+user agrees to:
+
+1. COPYRIGHT NOTICE
+If the generated code contains any copyright notices, 
+they must be left untouched (persist and be unchanged).
+
+2. NO DUPLICATION OF THIS PRODUCT
+The new product that includes the generated code must not
+be identical to this product.
+
+3. NO WARRANTY AND LIABILITY
+The generated code is still a part of this product and
+provides no warranty, neither its owner bear any liability.
 
 - - - - - -
 
