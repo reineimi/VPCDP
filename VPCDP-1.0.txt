@@ -156,16 +156,11 @@ to user is shared with purpose of either contributions
 to this product, improvement in existing products, or 
 creation of new, non-identical products.
 
-10. NO WARRANTY AND LIABILITY
-This product does not provide any warranty programs, and 
-the copyright owner of this product, as well as any of 
-its contributors, does not bear any legal liability.
-
 - - - - - -
 
 SECTION 4: GENERATED CODE/ASSETS EULA
 
-The generated code and assets provided specifically to 
+Any generated code and assets provided specifically to 
 the user from within this product are considered as 
 "FREE", but only under the following conditions the 
 user agrees to:
@@ -178,9 +173,13 @@ they must be left untouched (persist and be unchanged).
 The new product that includes the generated code must not
 be identical to this product.
 
-3. NO WARRANTY AND LIABILITY
-The generated code is still a part of this product and
-provides no warranty, neither its owner bear any liability.
+- - - - - -
+
+SECTION 5: NO WARRANTY AND LIABILITY
+
+This product does not provide any warranty programs, and 
+the copyright owner of this product, as well as any of 
+its contributors, does not bear any legal liability.
 
 - - - - - -
 
